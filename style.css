@@ -1,5 +1,5 @@
 body {
-    background: rgb(70, 142, 236);
+    background: white;
     font: normal 15pt Arial;
 
 }
@@ -32,8 +32,4 @@ footer {
     font-style: italic;
 
 
-}
-
-canvas {
-    background: white;
 }
